@@ -1,0 +1,18 @@
+<div id="testOutput"></div>
+
+<script type="text/javascript" src="./app.js"></script>
+<script type="text/javascript">
+/* globals getEvolveAmount testOutput */
+  var numPokemon = { value: 9 };
+  var candiesToEvolve = { value: 3};
+  var candyOnHand = { value: 6 };
+  var output = { innerHTML: '' };
+  const amount = getEvolveAmount();
+  if(amount === 2) {
+    testOutput.innerHTML = "We Gucci";
+  }
+  else {
+    console.log(amount);
+    testOutput.innerHTML = "Nop";
+  }
+</script>

@@ -1,0 +1,279 @@
+
+{
+  "1": {
+    "name": "bulbasaur",
+    "cost": 25
+  },
+  "2": {
+    "name": "ivysaur",
+    "cost": 100
+  },
+  "4": {
+    "name": "charmander",
+    "cost": 25
+  },
+  "5": {
+    "name": "charmeleon",
+    "cost": 100
+  },
+  "7": {
+    "name": "squirtle",
+    "cost": 25
+  },
+  "8": {
+    "name": "wartortle",
+    "cost": 100
+  },
+  "10": {
+    "name": "caterpie",
+    "cost": 12
+  },
+  "11": {
+    "name": "metapod",
+    "cost": 50
+  },
+  "13": {
+    "name": "weedle",
+    "cost": 12
+  },
+  "14": {
+    "name": "kakuna",
+    "cost": 50
+  },
+  "16": {
+    "name": "pidgey",
+    "cost": 12
+  },
+  "17": {
+    "name": "pidgeotto",
+    "cost": 50
+  },
+  "19": {
+    "name": "rattata",
+    "cost": 25
+  },
+  "21": {
+    "name": "spearow",
+    "cost": 50
+  },
+  "23": {
+    "name": "ekans",
+    "cost": 50
+  },
+  "25": {
+    "name": "pikachu",
+    "cost": 50
+  },
+  "27": {
+    "name": "sandshrew",
+    "cost": 50
+  },
+  "29": {
+    "name": "nidoran♀",
+    "cost": 25
+  },
+  "30": {
+    "name": "nidorina",
+    "cost": 100
+  },
+  "32": {
+    "name": "nidoran♂",
+    "cost": 25
+  },
+  "33": {
+    "name": "nidorino",
+    "cost": 100
+  },
+  "35": {
+    "name": "clefairy",
+    "cost": 50
+  },
+  "37": {
+    "name": "vulpix",
+    "cost": 50
+  },
+  "39": {
+    "name": "jigglypuff",
+    "cost": 50
+  },
+  "41": {
+    "name": "zubat",
+    "cost": 50
+  },
+  "43": {
+    "name": "oddish",
+    "cost": 25
+  },
+  "44": {
+    "name": "gloom",
+    "cost": 100
+  },
+  "46": {
+    "name": "paras",
+    "cost": 50
+  },
+  "48": {
+    "name": "venonat",
+    "cost": 50
+  },
+  "50": {
+    "name": "diglett",
+    "cost": 50
+  },
+  "52": {
+    "name": "meowth",
+    "cost": 50
+  },
+  "54": {
+    "name": "psyduck",
+    "cost": 50
+  },
+  "56": {
+    "name": "mankey",
+    "cost": 50
+  },
+  "58": {
+    "name": "growlithe",
+    "cost": 50
+  },
+  "60": {
+    "name": "poliwag",
+    "cost": 25
+  },
+  "61": {
+    "name": "poliwhirl",
+    "cost": 100
+  },
+  "63": {
+    "name": "abra",
+    "cost": 25
+  },
+  "64": {
+    "name": "kadabra",
+    "cost": 100
+  },
+  "66": {
+    "name": "machop",
+    "cost": 25
+  },
+  "67": {
+    "name": "machoke",
+    "cost": 100
+  },
+  "69": {
+    "name": "bellsprout",
+    "cost": 25
+  },
+  "70": {
+    "name": "weepinbell",
+    "cost": 100
+  },
+  "72": {
+    "name": "tentacool",
+    "cost": 50
+  },
+  "74": {
+    "name": "geodude",
+    "cost": 25
+  },
+  "75": {
+    "name": "graveler",
+    "cost": 100
+  },
+  "77": {
+    "name": "ponyta",
+    "cost": 50
+  },
+  "79": {
+    "name": "slowpoke",
+    "cost": 50
+  },
+  "81": {
+    "name": "magnemite",
+    "cost": 50
+  },
+  "84": {
+    "name": "doduo",
+    "cost": 50
+  },
+  "86": {
+    "name": "seel",
+    "cost": 50
+  },
+  "88": {
+    "name": "grimer",
+    "cost": 50
+  },
+  "90": {
+    "name": "shellder",
+    "cost": 50
+  },
+  "92": {
+    "name": "gastly",
+    "cost": 25
+  },
+  "93": {
+    "name": "haunter",
+    "cost": 100
+  },
+  "96": {
+    "name": "drowzee",
+    "cost": 50
+  },
+  "98": {
+    "name": "krabby",
+    "cost": 50
+  },
+  "100": {
+    "name": "voltorb",
+    "cost": 50
+  },
+  "102": {
+    "name": "exeggcute",
+    "cost": 50
+  },
+  "104": {
+    "name": "cubone",
+    "cost": 50
+  },
+  "109": {
+    "name": "koffing",
+    "cost": 50
+  },
+  "111": {
+    "name": "rhyhorn",
+    "cost": 50
+  },
+  "116": {
+    "name": "horsea",
+    "cost": 50
+  },
+  "118": {
+    "name": "goldeen",
+    "cost": 50
+  },
+  "120": {
+    "name": "staryu",
+    "cost": 50
+  },
+  "129": {
+    "name": "magikarp",
+    "cost": 400
+  },
+  "133": {
+    "name": "eevee",
+    "cost": 25
+  },
+  "138": {
+    "name": "omanyte",
+    "cost": 50
+  },
+  "140": {
+    "name": "kabuto",
+    "cost": 50
+  },
+  "148": {
+    "name": "dragonair",
+    "cost": 100
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-calculator",
+  "version": "1.0.0",
+  "description": "A min-max calculator for determining how many of a species you can evolve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Glick",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^13.5.0"
+  }
+}
