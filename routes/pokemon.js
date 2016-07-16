@@ -1,0 +1,8 @@
+
+exports.getPokemon = {
+
+};
+
+exports.savePokemon = {
+
+};
