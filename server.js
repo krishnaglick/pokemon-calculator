@@ -23,9 +23,9 @@ exports.start = async function() {
 
 exports.loadInitializers = async function(server) {
   const initializers = await glob(path.resolve('./initializers/*.js'));
-  _.forEach(initializers, (initializer) => {
+  _.forEach(initializers, async (initializer) => {
     try {
-      initializer();
+      await require(initializer)(server);
     }
     catch(x) {
       console.error(x);

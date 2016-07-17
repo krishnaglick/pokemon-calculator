@@ -4,6 +4,8 @@
   "description": "A min-max calculator for determining how many of a species you can evolve.",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node index.js",
+    "debug": "bode-debug index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Krishna Glick",
