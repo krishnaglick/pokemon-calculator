@@ -11,9 +11,10 @@ module.exports = async function(server) {
     try {
       const fileRoutes = require(route);
       _.forEach(Object.keys(fileRoutes), (key) => {
+        debugger;
         const fileRoute = fileRoutes[key];
         if(!fileRoute.method || !fileRoute.path || !fileRoute.handler)
-          throw `Issue with ${fileRoute}, missing something crucial!`;
+          return;
         server.route(fileRoute);
       });
     }
